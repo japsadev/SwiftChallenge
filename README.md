@@ -3,7 +3,6 @@ SWIFT CHALLENGE
 </h1>
 <br>
  
- <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg">
 
 | Contents | Status |
 | :---  | :---:  |
