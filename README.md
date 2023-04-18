@@ -4,7 +4,7 @@
 SWIFT CHALLENGE
 </h1>
 <br>
-
+ 
 
 | Contents | Status |
 | :---  | :---:  |
@@ -30,5 +30,5 @@ SWIFT CHALLENGE
 | Bölüm 20: Uygulama Mimarisi ( VIPER Pattern )  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 21: Uygulama Mimarisi ( VIPER Pattern ) Uygulamaları  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 22: IOS 2D Oyun Yapımı  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
-| Bölüm 23: IOS Animasyon İşlemleri  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
-| 
+| Bölüm 23: IOS Animasyon İşlemleri  |  |
+
