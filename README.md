@@ -1,5 +1,3 @@
-# SwiftChallenge
-
 <h1 align="center">
 SWIFT CHALLENGE
 </h1>
