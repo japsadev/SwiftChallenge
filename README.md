@@ -7,8 +7,8 @@ SWIFT CHALLENGE
 
 | Contents | Status |
 | :---  | :---:  |
-| Bölüm 1: Swift Giriş  |  |
-| Bölüm 2: Değişkenler ve Veri Tipleri  |  |
+| Bölüm 1: Swift Giriş  |  <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
+| Bölüm 2: Değişkenler ve Veri Tipleri  |  <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 3: Standart Programlama Yapıları  |  |
 | Bölüm 4: Optional  |  |
 | Bölüm 5: Collections  |  |
