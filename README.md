@@ -11,7 +11,7 @@ SWIFT CHALLENGE
 | Bölüm 3: Standart Programlama Yapıları  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 4: Optional  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 5: Collections  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
-| Bölüm 6: Nesne Tabanlı Programlama  |  |
+| Bölüm 6: Nesne Tabanlı Programlama  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 7: String Yapısı  |  |
 | Bölüm 8: İleri Swift  |  |
 | Bölüm 9: IOS Giriş  |  |
