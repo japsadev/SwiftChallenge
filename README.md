@@ -12,11 +12,11 @@ SWIFT CHALLENGE
 | Bölüm 4: Optional  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 5: Collections  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 6: Nesne Tabanlı Programlama  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
-| Bölüm 7: String Yapısı  |  |
-| Bölüm 8: İleri Swift  |  |
-| Bölüm 9: IOS Giriş  |  |
-| Bölüm 10: Xcode Proje Dizini  |  |
-| Bölüm 11: IOS Tasarım  |  |
+| Bölüm 7: String Yapısı  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
+| Bölüm 8: İleri Swift  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
+| Bölüm 9: IOS Giriş  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
+| Bölüm 10: Xcode Proje Dizini  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
+| Bölüm 11: IOS Tasarım  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 12: IOS Çalışma Yapısı |  |
 | Bölüm 13: IOS Widgets  |  |
 | Bölüm 14: IOS Kullanıcı Etkileşimi  |  |
