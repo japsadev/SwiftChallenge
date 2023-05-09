@@ -17,9 +17,9 @@ SWIFT CHALLENGE
 | Bölüm 9: IOS Giriş  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 10: Xcode Proje Dizini  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 11: IOS Tasarım  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
-| Bölüm 12: IOS Çalışma Yapısı |  |
-| Bölüm 13: IOS Widgets  |  |
-| Bölüm 14: IOS Kullanıcı Etkileşimi  |  |
+| Bölüm 12: IOS Çalışma Yapısı | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
+| Bölüm 13: IOS Widgets  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
+| Bölüm 14: IOS Kullanıcı Etkileşimi  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 15: IOS Listeleme İşlemleri  |  |
 | Bölüm 16: IOS Depolama İşlemleri  |  |
 | Bölüm 17: İleri IOS  |  |
