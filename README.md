@@ -20,7 +20,7 @@ SWIFT CHALLENGE
 | Bölüm 12: IOS Çalışma Yapısı | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 13: IOS Widgets  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 14: IOS Kullanıcı Etkileşimi  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
-| Bölüm 15: IOS Listeleme İşlemleri  |  |
+| Bölüm 15: IOS Listeleme İşlemleri  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 16: IOS Depolama İşlemleri  |  |
 | Bölüm 17: İleri IOS  |  |
 | Bölüm 18: IOS İnternet Tabanlı İşlemler  |  |
