@@ -23,10 +23,10 @@ SWIFT CHALLENGE
 | Bölüm 15: IOS Listeleme İşlemleri  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 16: IOS Depolama İşlemleri  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
 | Bölüm 17: İleri IOS  | <img width=13px src="https://icon-library.com/images/completed-icon/completed-icon-6.jpg"> |
-| Bölüm 18: IOS İnternet Tabanlı İşlemler  |  |
-| Bölüm 19: IOS Lokasyon İşlemleri  |  |
-| Bölüm 20: Uygulama Mimarisi ( VIPER Pattern )  |  |
-| Bölüm 21: Uygulama Mimarisi ( VIPER Pattern ) Uygulamaları  |  |
-| Bölüm 22: IOS 2D Oyun Yapımı  |  |
-| Bölüm 23: IOS Animasyon İşlemleri  |  |
+| Bölüm 18: IOS İnternet Tabanlı İşlemler  | ❤️ |
+| Bölüm 19: IOS Lokasyon İşlemleri  | ❤️ |
+| Bölüm 20: Uygulama Mimarisi ( VIPER Pattern )  | ❤️ |
+| Bölüm 21: Uygulama Mimarisi ( VIPER Pattern ) Uygulamaları  | ❤️ |
+| Bölüm 22: IOS 2D Oyun Yapımı  | ❤️ |
+| Bölüm 23: IOS Animasyon İşlemleri  | ❤️ |
 
